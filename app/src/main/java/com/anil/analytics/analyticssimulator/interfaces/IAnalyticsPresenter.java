@@ -2,7 +2,7 @@ package com.anil.analytics.analyticssimulator.interfaces;
 
 
 /**
- * Created by H211060 on 6/16/2018.
+ * Created by Anil Bondada on 6/15/2019.
  */
 public interface IAnalyticsPresenter {
     void generateAnalyticsData();
